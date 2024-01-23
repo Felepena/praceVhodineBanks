@@ -1,0 +1,66 @@
+.jmenobanky{
+
+}
+.clients{
+    font-weight: bold;
+}
+.banky{
+
+}
+.celakarta{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 30px;
+    width: 200px;
+    border-radius: 20px;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.buton{
+    border: none;
+    width: 90px;
+    border-radius: 20px;
+    padding: 18px;
+
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color: blue;
+
+}
+.green{
+    color: green;
+}
+.bluebutton{
+    color: white;
+    background-color: blue;
+}
+.greenbutton{
+    color: white;
+    background-color: green;
+}
+.orangebutton{
+    color: white;
+    background-color: orange;
+}
+.obraz img{
+
+    width: 200px;
+}
+.obraz{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.search-input{
+width: 520px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
